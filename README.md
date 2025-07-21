@@ -26,11 +26,10 @@ While Death Stranding is not as heavily modded as other AAA titles, there are st
 * [See Also](#see-also)
 
 ## Requirements
-* Death Stranding installed via Steam or Epic Games Store
-* A free [Nexus Mods](https://www.nexusmods.com/deathstranding) account
+* Death Stranding installed via Steam or Epic Games
+* A free [Nexus Mods](https://www.nexusmods.com/) account
 * [7-Zip](https://www.7-zip.org/) or another archive utility
-* [Vortex Mod Manager](https://www.nexusmods.com/about/vortex/) (Optional)
-* Basic understanding of navigating and copying files in Windows
+* A basic understanding of navigating and copying files in Windows
 
 ## Game Version Notes
 Here are some notes regarding the game version.
@@ -126,7 +125,7 @@ Additionally, keep the following in mind.
 
 ## See Also
 * [Nexus Mods - Death Stranding](https://www.nexusmods.com/deathstranding)
-* [Vortex Mod Manager Guide](https://wiki.nexusmods.com/index.php/Vortex)
+* [Vortex Mod Manager Guide](https://wiki.nexusmods.com/index.php/Category:Vortex)
 * [DS Modding Community on Reddit](https://www.reddit.com/r/DeathStranding/)
 * [7-Zip Download](https://www.7-zip.org/)
 * [Death Stranding Modding Discords](https://discord.gg/modding)
