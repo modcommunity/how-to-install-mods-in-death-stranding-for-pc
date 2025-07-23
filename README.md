@@ -4,7 +4,7 @@
 
 </div>
 
-A guide on how to **install mods** in **Death Stranding** on PC. This guide will walk you through the steps of modding the game using mod managers like [Vortex](https://www.nexusmods.com/about/vortex/) and trusted sources such as [Nexus Mods](https://www.nexusmods.com/deathstranding).
+A guide on how to **install mods** in **Death Stranding** on PC. This guide will use trusted sources such as [Nexus Mods](https://www.nexusmods.com/). Unfortunately, as far as we're aware, there are no supported mod managers like [Vortex](https://www.nexusmods.com/about/vortex/) for Death Stranding.
 
 This guide is written for **Windows users**. However, some steps can be adapted for Linux users running the game through Proton or [Lutris](https://lutris.net/).
 
@@ -16,9 +16,7 @@ While Death Stranding is not as heavily modded as other AAA titles, there are st
     * [Steam](#steam)
     * [Epic Games](#epic-games)
 * [Backup Your Game Files!](#backup-your-game-files)
-* [Installing Vortex Mod Manager](#installing-vortex-mod-manager)
 * [Where To Download Mods](#where-to-download-mods)
-* [Installing Mods Through Vortex](#installing-mods-through-vortex)
 * [Manual Mod Installation (Advanced)](#manual-mod-installation-advanced)
 * [Launch Death Stranding & Test](#launch-death-stranding--test)
 * [Modding Limitations](#modding-limitations)
@@ -27,7 +25,7 @@ While Death Stranding is not as heavily modded as other AAA titles, there are st
 
 ## Requirements
 * Death Stranding installed via Steam or Epic Games
-* A free [Nexus Mods](https://www.nexusmods.com/) account
+* A free [Nexus Mods](https://www.nexusmods.com/) account (optional, but recommended)
 * [7-Zip](https://www.7-zip.org/) or another archive utility
 * A basic understanding of navigating and copying files in Windows
 
@@ -36,10 +34,9 @@ Here are some notes regarding the game version.
 
 ### Steam
 * Most commonly used for modding.
-* Vortex can auto-detect the install path.
 
 ### Epic Games
-* Works with mods, but Vortex may require manual setup.
+* Works with mods.
 * Some mods may not support this version due to differing file structures.
 
 ## Backup Your Game Files!
@@ -56,17 +53,6 @@ To backup your game files, you may perform the following steps.
 
 This ensures you can roll back in case a mod causes your game to crash or corrupts your installation.
 
-## Installing Vortex Mod Manager
-[Vortex](https://www.nexusmods.com/about/vortex/) is the easiest way to manage mods for Death Stranding.
-
-To install and configure Vortex, please perform the following steps.
-
-1. Download Vortex from [here](https://www.nexusmods.com/site/mods/1?tab=files).
-2. Run the installer and launch Vortex.
-3. It should detect Death Stranding automatically. If not:
-    1. Click **Games**, search for *Death Stranding*, and click **Manage**.
-    2. Manually point it to the game's executable if needed.
-
 ## Where To Download Mods
 The most popular website that provides Death Standing mods is [Nexus Mods](https://www.nexusmods.com/deathstranding). 
 
@@ -74,19 +60,8 @@ Other modding communities or forums may host mods, but be cautious and always sc
 
 **NOTE** - Always read the mod description and posts for installation instructions, compatibility info, and dependencies.
 
-## Installing Mods Through Vortex
-To install mods through Vortex, follow these steps.
-
-1. Log in to your Nexus Mods account in your browser.
-2. Visit a mod page and click **Mod Manager Download**.
-3. The mod file should open in Vortex.
-4. In Vortex:
-    * Go to the **Mods** tab.
-    * Enable the mod.
-    * Click **Deploy Mods** if prompted.
-
-## Manual Mod Installation (Advanced)
-Some users may prefer manually installing mods or a mod may require a manual installation itself. In either case, you can perform the following steps to manually install a mod.
+## Manual Mod Installation
+As of right now, manually installing mods is the only method available. Each mod may have different instructions, but generally I've found the following steps the most common for installing mods.
 
 1. Download the mod manually from Nexus Mods.
 2. Use [7-Zip](https://www.7-zip.org/) to extract the archive.
@@ -119,13 +94,10 @@ By now, you should have a basic understanding on how to download, install, and c
 Additionally, keep the following in mind.
 
 * Safely back up your Death Stranding install and saves
-* Use Vortex to manage mods
-* Manually install mods if needed
 * Understand the limitations of the current modding scene
 
 ## See Also
 * [Nexus Mods - Death Stranding](https://www.nexusmods.com/deathstranding)
-* [Vortex Mod Manager Guide](https://wiki.nexusmods.com/index.php/Category:Vortex)
 * [DS Modding Community on Reddit](https://www.reddit.com/r/DeathStranding/)
 * [7-Zip Download](https://www.7-zip.org/)
 * [Death Stranding Modding Discords](https://discord.gg/modding)
