@@ -1,12 +1,8 @@
-<div align="center">
-
-![banner](./images/banner.png)
-
-</div>
-
 A guide on how to **install mods** in **Death Stranding** on PC. This guide will use trusted sources such as [Nexus Mods](https://www.nexusmods.com/). Unfortunately, as far as we're aware, there are no supported mod managers like [Vortex](https://www.nexusmods.com/about/vortex/) for Death Stranding.
 
 This guide is written for **Windows users**. However, some steps can be adapted for Linux users running the game through Proton or [Lutris](https://lutris.net/).
+
+[**View Guide On TMC (Recommended Due To Better Formatting)**](https://blog.moddingcommunity.com/how-to-install-mods-in-death-stranding/)
 
 While Death Stranding is not as heavily modded as other AAA titles, there are still a growing number of mods available to enhance visuals, UI, models, and gameplay tweaks.
 
